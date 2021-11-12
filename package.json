@@ -1,0 +1,15 @@
+{
+  "name": "react-npm-package-testing-sr0217",
+  "description": "Two test React components",
+  "author": "shilpa0217",
+  "keywords": ["react", "components", "ui"],
+  "version": "0.2.0",
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/shilparaj/react-npm-package.git"
+  }
+}
